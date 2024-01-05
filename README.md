@@ -1,3 +1,3 @@
 # git_merge
-# line add in feature
-# 3rd line in master branch
+# line add in master
+# 3rd line in data branch
